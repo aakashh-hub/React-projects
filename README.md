@@ -5,6 +5,9 @@ Project 1 :
 Project 2 :
   It contains a dynamic webpage where we can see the popular food items of few countries and we can see the location of those countries using google maps.
 
+Project 3 :
+  It contains basic react properties to display contents.
+
 Project 4 :
   It is a webpage which is created using react.js . It mainly focus on multimedia tags and alignment of those elements.
 
