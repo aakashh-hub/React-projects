@@ -1,0 +1,27 @@
+.img{
+    float: left;
+    height: 300px;
+}
+.img1{
+    height: 300px;
+    float: right;
+    
+}
+.img2{
+    float: left;
+    height: 300px;
+}
+.img3{
+    float: right;
+    height: 300px;
+}
+
+.vid{
+    margin-top: 10px;
+    margin-left: 517px;
+    margin-bottom: 10px;
+
+}
+/* *{
+    background-color: black;
+} */
